@@ -1,0 +1,7 @@
+Z:\DPM225494_HuynhThiNgocTrinh\DPM225494_HuynhThiNgocTrinh_Pattern01_Singleton\Real\bin\Debug\Real.exe.config
+Z:\DPM225494_HuynhThiNgocTrinh\DPM225494_HuynhThiNgocTrinh_Pattern01_Singleton\Real\bin\Debug\Real.exe
+Z:\DPM225494_HuynhThiNgocTrinh\DPM225494_HuynhThiNgocTrinh_Pattern01_Singleton\Real\bin\Debug\Real.pdb
+Z:\DPM225494_HuynhThiNgocTrinh\DPM225494_HuynhThiNgocTrinh_Pattern01_Singleton\Real\obj\Debug\Real.csproj.AssemblyReference.cache
+Z:\DPM225494_HuynhThiNgocTrinh\DPM225494_HuynhThiNgocTrinh_Pattern01_Singleton\Real\obj\Debug\Real.csproj.CoreCompileInputs.cache
+Z:\DPM225494_HuynhThiNgocTrinh\DPM225494_HuynhThiNgocTrinh_Pattern01_Singleton\Real\obj\Debug\Real.exe
+Z:\DPM225494_HuynhThiNgocTrinh\DPM225494_HuynhThiNgocTrinh_Pattern01_Singleton\Real\obj\Debug\Real.pdb
